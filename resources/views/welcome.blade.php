@@ -4,7 +4,8 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+        <meta property="og:title"              content="You Are Fake News" />
+        <meta property="og:description"        content="How to use primary sources to be a better-informed human." />
         <title>Shitsource</title>
         <!-- Latest compiled and minified Bootstrap CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -87,7 +88,7 @@
                     <hr/>
                 </h2>
                 <p>
-                    This article is pretty easy to verify because it refers to a Supreme Court decision, and those are <a href="https://www.supremecourt.gov/opinions/16pdf/15-1251_ed9g.pdf">published online for all to see.</a> The linked PDF from the court is what us elite snowflakes refer to as a “primary source” and the link above is what we would call a “tertiary source.” What that means is instead of being the ruling or referencing the ruling (secondary source), this article instead refers to the secondary source referencing the ruling. Not a good sign.
+                    This article is pretty easy to verify because it refers to a Supreme Court decision, and those are <a href="https://www.supremecourt.gov/opinions/16pdf/15-1251_ed9g.pdf">published online for all to see.</a> The linked PDF from the court is what us elite snowflakes refer to as a “primary source” and the article above is what we would call a “tertiary source.” What that means is instead of being the ruling or referencing the ruling (secondary source), this article instead refers to the secondary source referencing the ruling. Not a good sign.
                 </p>
                 <br>
                 <div class="col-xs-12 col-md-6">
