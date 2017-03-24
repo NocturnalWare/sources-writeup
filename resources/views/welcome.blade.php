@@ -77,14 +77,16 @@
                 How To Verify Shit Articles on the Internet
         </h1>
         <hr/>
-        <div class="col-xs-12">
-            <div class="col-xs-12 col-md-6 col-md-offset-3">
+        <div class="col-xs-12" style="background-color:#eee">
+            <br>
+            <div class="col-xs-12 col-md-8 col-md-offset-2" style="background-color:#fff;border-radius: 15px;">
                 <center>
+                <br>
                     <img class="img-responsive" src="https://s3.amazonaws.com/shitsource/independent_article_link.jpg">
                     <br>
                 </center>
                 <h2 style="font-weight:bold;text-align:center">
-                    Supreme Court Rules In Favor of  SW GENERAL, INC.
+                    Actual Story: Supreme Court Rules In Favor of  SW GENERAL, INC.
                     <hr/>
                 </h2>
                 <p>
@@ -94,7 +96,7 @@
                 <div class="col-xs-12 col-md-6">
                     <div class="row">
                         <p>
-                            A quick look at the clickbait-as-fuck headlines on independentsentinel.com should be enough to send you to DEFCON 2. If it's not, the article is written by the widely known and very reputable internet journalist “S. Noble"
+                            A quick look at the clickbait-as-fuck headlines on independentsentinel.com should be enough to send you to DEFCON-2. If it's not, the article is written by the widely known and very reputable internet journalist “S. Noble"
                         </p>
                     </div>
                 </div>
@@ -120,7 +122,8 @@
                             Now that alarm bells are [hopefully] ringing, let's have a look at the secondary source this article references over at “freebeacon.com" ...Uh oh, red flag! there's no security certificate here either! But at least they have a privacy policy and actual authors. I wouldn't trust what I read here, but at least in this article they reference the primary source (sometimes the rabbit hole goes deep.)
                         </p>
                         <p>
-                            So now that you've got a better idea on how to qualify a source let's talk about the ruling and why the title of this "article" is inherently misleading. In the example, we're talking about United States Supreme Court ruling. In order to be heard by the Supreme Court, a case has to move through many lower courts in the federal circuit (US Constitution Article 3!) This means that the NLRB appointment wasn't an obvious violation of the constitution and required more legal clarification – the entire point of the US judicial system.
+                            <br>
+                            Congratulations! You've now got a better handle on how to qualify a source, so let's talk about the ruling and why the title of this "article" is inherently misleading. In the example, we're talking about United States Supreme Court ruling. In order to be heard by the Supreme Court, a case has to move through many lower courts in the federal circuit (US Constitution Article 3!) This means that the NLRB appointment wasn't an obvious violation of the constitution and required more legal clarification – the entire point of the US judicial system.
                             <br>
                             <br>
                             At the end of the day, what we have here is a shitty opinion based on a true story.
