@@ -6,6 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta property="og:title"              content="You Are Fake News" />
         <meta property="og:description"        content="How to use primary sources to be a better-informed human." />
+        <meta property="og:image"              content="https://s3.amazonaws.com/shitsource/fake_news.jpg" />
         <title>Shitsource</title>
         <!-- Latest compiled and minified Bootstrap CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -119,7 +120,7 @@
                     <div class="row">
                         <p>
                             <br>
-                            Now that alarm bells are [hopefully] ringing, let's have a look at the secondary source this article references over at “freebeacon.com" ...Uh oh, red flag! there's no security certificate here either! But at least they have a privacy policy and actual authors. I wouldn't trust what I read here, but at least in this article they reference the primary source (sometimes the rabbit hole goes deep.)
+                            Now that alarm bells are [hopefully] ringing, let's have a look at the secondary source this article references over at “freebeacon.com" ...Uh oh, red flag! there's no security certificate here either! But hey, they have a privacy policy and list actual authors, so this is a slight improvement. I wouldn't trust what I read here, but at least in this article they reference the primary source (sometimes the rabbit hole goes deep.)
                         </p>
                         <p>
                             <br>
