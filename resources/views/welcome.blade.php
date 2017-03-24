@@ -75,7 +75,7 @@
     <body>
     <div class="col-xs-12">
         <h1 style="font-weight: bold">
-                How To Verify Shit Articles on the Internet
+                How To Qualify Shit Articles on the Internet
         </h1>
         <hr/>
         <div class="col-xs-12" style="background-color:#eee">
