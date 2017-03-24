@@ -74,13 +74,13 @@
     </head>
     <body>
     <div class="col-xs-12">
-        <h1 style="font-weight: bold">
-                How To Qualify Shit Articles on the Internet
+        <h1 style="font-weight: bold;text-align: center">
+                Your Source Is Shit: How to Qualify an Article
         </h1>
         <hr/>
-        <div class="col-xs-12" style="background-color:#eee">
+        <div class="col-xs-12" style="background-color:#fff">
             <br>
-            <div class="col-xs-12 col-md-6 col-md-offset-3" style="background-color:#fff;border-radius: 15px;">
+            <div class="col-xs-12 col-md-6 col-md-offset-3" style="background-color:#fff;border-radius: 15px;padding-left:25px;padding-right:25px">
                 <center>
                 <br>
                     <img class="img-responsive" src="https://s3.amazonaws.com/shitsource/independent_article_link.jpg">
