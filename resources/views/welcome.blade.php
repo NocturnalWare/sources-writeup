@@ -80,7 +80,7 @@
         <hr/>
         <div class="col-xs-12" style="background-color:#fff">
             <br>
-            <div class="col-xs-12 col-md-6 col-md-offset-3" style="background-color:#fff;border-radius: 15px;padding-left:25px;padding-right:25px">
+            <div class="col-xs-12 col-md-6 col-md-offset-3" style="background-color:#fff;border-radius: 15px;">
                 <center>
                 <br>
                     <img class="img-responsive" src="https://s3.amazonaws.com/shitsource/independent_article_link.jpg">
