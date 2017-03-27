@@ -78,7 +78,7 @@
                     Shitsource.com is Probably Fake News
             </h1>
             <hr/>
-            <div class="col-xs-12" style="background-color:#fff">
+            <div class="col-xs-12" style="background-color:#fff;padding-bottom:80px">
                 <br>
                 <div class="col-xs-12 col-md-6 col-md-offset-3" style="background-color:#fff;border-radius: 15px;">
                     <center>
