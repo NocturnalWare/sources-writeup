@@ -108,7 +108,7 @@
                         He then pulled out his phone to look up a recent Fox News Tweet regarding the President's unexpected stay at the White House for the weekend and exclaimed <i>"Look at this! The bar is so low that we actually expect him to take a vacation to Florida EVERY weekend! We've never seen anything like this in the observable universe!"</i>
                     </p>
                     <div class="row" style="padding-bottom:40px;">
-                        <div class="col-xs-6 col-xs-offset-3">
+                        <div class="col-xs-12 col-md-6 col-md-offset-3">
                             <img class="img-responsive" src="https://s3.amazonaws.com/shitsource/fox_news_alert.jpg">
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                         The study is being funded by several civil rights groups and countries. Most notable on the list is Canada as the Trudeau administration looks to further humiliate Trump at every opportunity -- somtimes more than twice a day. When asked for a comment, Trudeau's spokesperson person has been unreachable except for an email response of the following photograph:
                     </p>
                     <div class="row" style="padding-bottom:40px;">
-                        <div class="col-xs-6 col-xs-offset-3">
+                        <div class="col-xs-12 col-md-6 col-md-offset-3">
                             <img class="img-responsive" src="https://s3.amazonaws.com/shitsource/trudeau.jpg">
                         </div>
                     </div>
