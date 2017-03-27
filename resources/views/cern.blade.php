@@ -91,7 +91,7 @@
                         <hr/>
                     </h2>
                     <p>
-                        The bar has been set so low in the last two months for the Trump administration that actual scientists have begun seeking funding for a new study. The international science community has been watching the administration slowly lower the bar; now, some high-energy physicists are looking into a potential collapse into singularity as the bar rapidly approaches 0. 
+                        The bar for the Trump administration has been set so low in the past two months that actual scientists have recieved funding for a new study. The international science community has been watching the administration slowly lower the bar; now, some high-energy physicists are looking into a potential collapse into singularity as the bar rapidly approaches zero. 
                     </p>
                     <p>
                         According to lead Physicist Dr. Ben Gazi: <br><br>
