@@ -113,7 +113,7 @@
                         </div>
                     </div>
                     <p>
-                        The study is being funded by several civil rights groups and countries. Most notable on the list is Canada as the Trudeau administration looks to further humiliate Trump at every opportunity -- somtimes more than twice a day. When asked for a comment, Trudeau's spokesperson person has been unreachable except for an email response of the following photograph:
+                        The study is being funded by several civil rights groups and countries. Most notable on the list is Canada as the Trudeau administration looks to further humiliate Trump at every opportunity -- somtimes more than twice a day. When asked for a comment, Trudeau's spokesperson has been unreachable except for an email response of the following photograph:
                     </p>
                     <div class="row" style="padding-bottom:40px;">
                         <div class="col-xs-12 col-md-6 col-md-offset-3">
