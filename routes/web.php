@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('/cern', function () {
 	return view('cern');
 });
+
+Route::get('/julian', function () {
+	return view('julian');
+});
