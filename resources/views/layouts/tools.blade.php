@@ -4,9 +4,9 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta property="og:title"              content="Oh, Julian..." />
-        <meta property="og:description"        content="Slice of wonderbread threatens girl, community throws him into toaster at max power. More news at 11" />
-        <meta property="og:image"              content="https://s3.amazonaws.com/shitsource/julian/header.jpg" />
+        <meta property="og:title"              content="Webcode Resources" />
+        <meta property="og:description"        content="Beep Boop Beep I'm a computer" />
+        <meta property="og:image"              content="https://s3.amazonaws.com/shitsource/neo.jpg" />
         <title>Shitsource</title>
         <!-- Latest compiled and minified Bootstrap CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
