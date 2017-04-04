@@ -22,3 +22,8 @@ Route::get('/cern', function () {
 Route::get('/julian', function () {
 	return view('julian');
 });
+
+Route::get('/tools', 'ToolsController@index')->name('tools.tools');
+Route::get('/frontend', 'ToolsController@frontend')->name('frontend');
+Route::get('/backend', 'ToolsController@backend')->name('backend');
+Route::get('/database', 'ToolsController@database')->name('database');
