@@ -73,8 +73,10 @@
         </style>
     </head>
     <body>
-        @include('layouts.topnav')
-        <div style="margin-top: 80px">
+        <div class="row">
+            @include('layouts.topnav')
+        </div>
+        <div class="col-xs-12">
             @yield('content')
         </div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
