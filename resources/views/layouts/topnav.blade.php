@@ -9,7 +9,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Computer Poetry 101</a>
+      <a class="navbar-brand" href="#"><b>Computer Poetry 101<b></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -18,14 +18,14 @@
 
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources<span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><b>Resources</b><span class="caret"></span></a>
           <ul class="dropdown-menu" style="text-align: center">
             <li><a style="font-weight: bold" href="{{route('frontend')}}">Front End</a></li>
             <li><a style="font-weight: bold" href="{{route('backend')}}">Back End</a></li>
             <li><a style="font-weight: bold" href="{{route('database')}}">Databases</a></li>
           </ul>
         </li>
-        <li><a href="{{route('tools.tools')}}">Tools</a></li>
+        <li><a href="{{route('tools.tools')}}"><b>Tools</b></a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
